@@ -1,0 +1,199 @@
+[21080:26088:2024-5-12 12:42:56.274] Main Start
+[21080:26088:2024-5-12 12:42:56.274] Command line:"C:\Users\hp\Downloads\Zoom_cm_fo42mnktZ9vvrZo4_mHuQU4ORXrc0HICBiba0KaJY1UDFyt8xDjqbA@ZZ0fh4tpie+yXxia_k221d1bb1bd847a00_.exe"  Instance:0x980000 Show State:1
+[21080:26088:2024-5-12 12:42:56.329] C:\
+[21080:15316:2024-5-12 12:42:56.353] [process_requst] start, url:https://us05web.zoom.us/conf/launch
+[21080:15316:2024-5-12 12:42:57.553] [req_state_read_status_code] zHttpQueryInfo complete, status:200
+[21080:15316:2024-5-12 12:42:57.553] [req_state_read_status_code] zHttpQueryInfo complete, status:200 Error: 0
+[21080:15316:2024-5-12 12:42:57.553] [read_response_content] API call zHttpQueryInfo failed, error: 12150
+[21080:15316:2024-5-12 12:42:57.555] [log_response_content] Content length (1048576 as unknown):1048576 , Total read: 2474 , Error No: 0 , Status code: 200
+[21080:15316:2024-5-12 12:42:57.555] [log_response_content] header:
+[21080:15316:2024-5-12 12:42:57.555] HTTP/1.1 200 OK
+Date: Sun, 12 May 2024 07:12:56 GMT
+Content-Type: text/plain;charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+x-zm-trackingid: v=2.0;clid=us05;rid=WEB_55f10c54ff63f20ede7eed5aff607216
+x-content-type-options: nosniff
+content-security-policy: upgrade-insecure-requests; default-src https://*.zoom.us https://zoom.us blob: 'self'; img-src https: about: blob: data: 'self'; style-src https: safari-extension: chrome-extension: 'unsafe-inline' data: 'self'; font-src https: safari-extension: chrome-extension: blob: data: 'self'; connect-src * about: blob: data: 'self'; media-src * rtmp: blob: data: 'self'; frame-src https: ms-appx-web: zoommtg: zoomus: wvjbscheme: zoomprc: data: blob: 'self'; object-src 'none'; base-uri 'none';
+x-frame-options: SAMEORIGIN
+set-cookie: zm_aid=; Max-Age=0; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Domain=zoom.us; Path=/; Secure; HttpOnly
+x-zm-zoneid: VA
+strict-transport-security: max-age=31536000; includeSubDomains
+x-xss-protection: 1; mode=block
+referrer-policy: strict-origin-when-cross-origin
+CF-Cache-Status: DYNAMIC
+Set-Cookie: zm_haid=; Max-Age=0; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Domain=zoom.us; Path=/; Secure; HttpOnly
+Set-Cookie: zm_tmaid=; Max-Age=0; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Domain=zoom.us; Path=/; Secure; HttpOnly
+Set-Cookie: zm_htmaid=; Max-Age=0; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Domain=zoom.us; Path=/; Secure; HttpOnly
+Set-Cookie: cred=33465F5C87AB099CBD778C217F22AEBE; Path=/; Secure; HttpOnly
+Set-Cookie: _zm_page_auth=us05_c_qy67PIj6TK29L_AGD4m3rw; Domain=zoom.us; Path=/; Secure; HttpOnly
+Set-Cookie: _zm_ssid=us05_c_r1YgY_gcSI2TEwovnMwvJQ; Domain=zoom.us; Path=/; Secure; HttpOnly
+Set-Cookie: _zm_ctaid=iKSIPPnxSH-xK1ip9yzdkA.1715497976357.b9796bd64088ada9c2b7e461dc120371; Max-Age=7200; Expires=Sun, 12 May 2024 09:12:56 GMT; Domain=zoom.us; Path=/; Secure; HttpOnly
+Set-Cookie: _zm_chtaid=601; Max-Age=7200; Expires=Sun, 12 May 2024 09:12:56 GMT; Domain=zoom.us; Path=/; Secure; HttpOnly
+Set-Cookie: _zm_mtk_guid=c718387f9a34494a89e7ead224df6769; Max-Age=63072000; Expires=Tue, 12 May 2026 07:12:56 GMT; Domain=zoom.us; Path=/; Secure
+Set-Cookie: __cf_bm=dunYrMCMxe0A156OQp7SUqMC4.Vvj9XeKyxhMHRrSOQ-1715497976-1.0.1.1-KA7bGzy1SII.DlfdEuuwlaq2Wstl2G.ukpP71WLK4skG9ea1XwnT_pqeFVttnk72Hb6ERYdmrB5ujXFjFpbocA; path=/; expires=Sun, 12-May-24 07:42:56 GMT; domain=.us05web.zoom.us; HttpOnly; Secure; SameSite=None
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=H%2FMbnXqaMYZ6rX0kBo5%2BO7BOMRyHSN7cgVpaIDpuWbWAzjztEKfFPdCLD1k%2FCcpn61N2NziBVW39wpoifzoGvYhYkU%2BrxdbjNo3jpAJgqqZn4d54mAfxNW%2Bi4bwzSZo5xedRVEFbFg9jilvjfQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 88289a6fac6229eb-BOM
+alt-svc: h3=":443"; ma=86400
+
+
+[21080:15316:2024-5-12 12:42:57.555] [process_requst] End for url:https://us05web.zoom.us/conf/launch, return code:200, Error:0, Response content size:2474
+[21080:26088:2024-5-12 12:42:57.584] [client_has_installed_app] found path:
+[21080:26088:2024-5-12 12:42:57.584]  ***NULL-POINTER-PLACEHOLDER***
+[21080:26088:2024-5-12 12:42:57.584] [param_query_local_path] path is: C:\Users\hp\AppData\Roaming\Zoom\ZoomDownload\ dir create response : 1 system error: 1008
+[21080:26088:2024-5-12 12:42:57.584] [downloader_run] State:0
+[21080:16800:2024-5-12 12:42:57.584] [process_requst] start, url:https://us05web.zoom.us/client/latest/Installer.exe?archType=x64
+[21080:26088:2024-5-12 12:42:57.584] [client_has_installed_app] found path:
+[21080:26088:2024-5-12 12:42:57.584]  ***NULL-POINTER-PLACEHOLDER***
+[4044:24136:2024-5-12 12:43:1.994] Main Start
+[4044:24136:2024-5-12 12:43:1.994] Command line:"C:\Users\hp\Downloads\Zoom_cm_fo42mnktZ9vvrZo4_mHuQU4ORXrc0HICBiba0KaJY1UDFyt8xDjqbA@ZZ0fh4tpie+yXxia_k221d1bb1bd847a00_.exe"  Instance:0x980000 Show State:1
+[4044:24136:2024-5-12 12:43:1.997] [app_init] init_opener_worker failed.
+[4044:24136:2024-5-12 12:43:1.997] MyMain Failed to init.
+[4044:24136:2024-5-12 12:43:1.997] Main End
+[6776:28460:2024-5-12 12:43:24.73] Main Start
+[6776:28460:2024-5-12 12:43:24.73] Command line:"C:\Users\hp\Downloads\Zoom_cm_fo42mnktZ9vvrZo4_mHuQU4ORXrc0HICBiba0KaJY1UDFyt8xDjqbA@ZZ0fh4tpie+yXxia_k221d1bb1bd847a00_.exe"  Instance:0x980000 Show State:1
+[6776:28460:2024-5-12 12:43:24.73] [app_init] init_opener_worker failed.
+[6776:28460:2024-5-12 12:43:24.73] MyMain Failed to init.
+[6776:28460:2024-5-12 12:43:24.73] Main End
+[21080:16800:2024-5-12 12:44:1.428] HttpSendRequest API failed1, error code: 12002
+[15636:13636:2024-5-12 12:44:57.749] Main Start
+[15636:13636:2024-5-12 12:44:57.749] Command line:"C:\Users\hp\Downloads\Zoom_cm_fo42mnktZ9vvrZo4_mHuQU4ORXrc0HICBiba0KaJY1UDFyt8xDjqbA@ZZ0fh4tpie+yXxia_k221d1bb1bd847a00_.exe"  Instance:0x980000 Show State:1
+[15636:13636:2024-5-12 12:44:57.749] [app_init] init_opener_worker failed.
+[15636:13636:2024-5-12 12:44:57.749] MyMain Failed to init.
+[15636:13636:2024-5-12 12:44:57.749] Main End
+[21080:16800:2024-5-12 12:45:4.563] HttpSendRequest API failed, error code: 12002
+[21080:16800:2024-5-12 12:45:4.576] [process_requst] End for url:https://us05web.zoom.us/client/latest/Installer.exe?archType=x64, return code:0, Error:1006, Response content size:0
+[21080:26088:2024-5-12 12:45:4.610] [handle_download_job_done] Index: 1 Curr index: 1 StatusCode: 0 Error: 1006 Response is Empty. 
+[21080:26088:2024-5-12 12:45:39.831] [downloader_retry] State:15
+[21080:16800:2024-5-12 12:45:39.831] [process_requst] start, url:https://us05web.zoom.us/client/latest/Installer.exe?archType=x64
+[21080:16800:2024-5-12 12:46:43.542] HttpSendRequest API failed1, error code: 12002
+[11004:15072:2024-5-12 12:47:35.847] Main Start
+[11004:15072:2024-5-12 12:47:35.847] Command line:"C:\Users\hp\Downloads\Zoom_cm_fo42mnktZ9vvrZo4_mHuQU4ORXrc0HICBiba0KaJY1UDFyt8xDjqbA@ZZ0fh4tpie+yXxia_k221d1bb1bd847a00_.exe"  Instance:0x980000 Show State:1
+[11004:15072:2024-5-12 12:47:35.847] [app_init] init_opener_worker failed.
+[11004:15072:2024-5-12 12:47:35.847] MyMain Failed to init.
+[11004:15072:2024-5-12 12:47:35.847] Main End
+[21080:16800:2024-5-12 12:47:46.683] HttpSendRequest API failed, error code: 12002
+[21080:16800:2024-5-12 12:47:46.699] [process_requst] End for url:https://us05web.zoom.us/client/latest/Installer.exe?archType=x64, return code:0, Error:1006, Response content size:0
+[21080:26088:2024-5-12 12:47:46.747] [handle_download_job_done] Index: 1 Curr index: 1 StatusCode: 0 Error: 1006 Response is Empty. 
+[21080:26088:2024-5-12 12:47:51.629] Main End
+[27684:22128:2024-5-12 12:47:55.156] Main Start
+[27684:22128:2024-5-12 12:47:55.156] Command line:"C:\Users\hp\Downloads\Zoom_cm_fo42mnktZ9vvrZo4_mHuQU4ORXrc0HICBiba0KaJY1UDFyt8xDjqbA@ZZ0fh4tpie+yXxia_k221d1bb1bd847a00_.exe"  Instance:0x980000 Show State:1
+[27684:22128:2024-5-12 12:47:55.209] C:\
+[27684:19276:2024-5-12 12:47:55.212] [process_requst] start, url:https://us05web.zoom.us/conf/launch
+[27684:19276:2024-5-12 12:47:56.140] [req_state_read_status_code] zHttpQueryInfo complete, status:200
+[27684:19276:2024-5-12 12:47:56.142] [req_state_read_status_code] zHttpQueryInfo complete, status:200 Error: 0
+[27684:19276:2024-5-12 12:47:56.142] [read_response_content] API call zHttpQueryInfo failed, error: 12150
+[27684:19276:2024-5-12 12:47:56.213] [log_response_content] Content length (1048576 as unknown):1048576 , Total read: 2058 , Error No: 0 , Status code: 200
+[27684:19276:2024-5-12 12:47:56.213] [log_response_content] header:
+[27684:19276:2024-5-12 12:47:56.213] HTTP/1.1 200 OK
+Date: Sun, 12 May 2024 07:17:55 GMT
+Content-Type: text/plain;charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+x-zm-trackingid: v=2.0;clid=us05;rid=WEB_3d8fab6eb4dc348309e0795d3e918f53
+x-content-type-options: nosniff
+content-security-policy: upgrade-insecure-requests; default-src https://*.zoom.us https://zoom.us blob: 'self'; img-src https: about: blob: data: 'self'; style-src https: safari-extension: chrome-extension: 'unsafe-inline' data: 'self'; font-src https: safari-extension: chrome-extension: blob: data: 'self'; connect-src * about: blob: data: 'self'; media-src * rtmp: blob: data: 'self'; frame-src https: ms-appx-web: zoommtg: zoomus: wvjbscheme: zoomprc: data: blob: 'self'; object-src 'none'; base-uri 'none';
+x-frame-options: SAMEORIGIN
+set-cookie: zm_aid=; Max-Age=0; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Domain=zoom.us; Path=/; Secure; HttpOnly
+set-cookie: zm_haid=; Max-Age=0; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Domain=zoom.us; Path=/; Secure; HttpOnly
+set-cookie: zm_tmaid=; Max-Age=0; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Domain=zoom.us; Path=/; Secure; HttpOnly
+set-cookie: zm_htmaid=; Max-Age=0; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Domain=zoom.us; Path=/; Secure; HttpOnly
+set-cookie: cred=378A6F8ABE0667F6AED41248110BE7D2; Path=/; Secure; HttpOnly
+set-cookie: _zm_page_auth=us05_c_fR67FWEGRxOVIGYIdwikMA; Domain=zoom.us; Path=/; Secure; HttpOnly
+set-cookie: _zm_ssid=us05_c_R1FQj1cTTGqN2PHX-huHZw; Domain=zoom.us; Path=/; Secure; HttpOnly
+x-zm-zoneid: VA
+strict-transport-security: max-age=31536000; includeSubDomains
+x-xss-protection: 1; mode=block
+referrer-policy: strict-origin-when-cross-origin
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=94%2BykRfqXlPjgQ5bLndiYE%2FsAaQksltcu5J4ByyyBtYBSACepKpnp%2BeV34HaGsYdqQl1TW9b7TLpX%2BSRNSIH7AFJknO61x2NMqQD2oi%2BFmTmontWpPQCcQOWsid%2B1HtqO6i6DbttgTOe%2BA2HLA%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 8828a1b9d8ab491b-BOM
+alt-svc: h3=":443"; ma=86400
+
+
+[27684:19276:2024-5-12 12:47:56.213] [process_requst] End for url:https://us05web.zoom.us/conf/launch, return code:200, Error:0, Response content size:2058
+[27684:22128:2024-5-12 12:47:56.276] [client_has_installed_app] found path:
+[27684:22128:2024-5-12 12:47:56.276]  ***NULL-POINTER-PLACEHOLDER***
+[27684:22128:2024-5-12 12:47:56.276] [param_query_local_path] path is: C:\Users\hp\AppData\Roaming\Zoom\ZoomDownload\ dir create response : 0 system error: 183
+[27684:22128:2024-5-12 12:47:56.276] [downloader_run] State:0
+[27684:21908:2024-5-12 12:47:56.276] [process_requst] start, url:https://us05web.zoom.us/client/latest/Installer.exe?archType=x64
+[27684:22128:2024-5-12 12:47:56.276] [client_has_installed_app] found path:
+[27684:22128:2024-5-12 12:47:56.276]  ***NULL-POINTER-PLACEHOLDER***
+[27684:21908:2024-5-12 12:49:0.282] HttpSendRequest API failed1, error code: 12002
+[27400:8608:2024-5-12 12:49:35.167] Main Start
+[27400:8608:2024-5-12 12:49:35.167] Command line:"C:\Users\hp\Downloads\Zoom_cm_fo42mnktZ9vvrZo4_mHuQU4ORXrc0HICBiba0KaJY1UDFyt8xDjqbA@ZZ0fh4tpie+yXxia_k221d1bb1bd847a00_.exe"  Instance:0x980000 Show State:1
+[27400:8608:2024-5-12 12:49:35.180] [app_init] init_opener_worker failed.
+[27400:8608:2024-5-12 12:49:35.180] MyMain Failed to init.
+[27400:8608:2024-5-12 12:49:35.182] Main End
+[27684:21908:2024-5-12 12:50:3.400] HttpSendRequest API failed, error code: 12002
+[27684:21908:2024-5-12 12:50:3.411] [process_requst] End for url:https://us05web.zoom.us/client/latest/Installer.exe?archType=x64, return code:0, Error:1006, Response content size:0
+[27684:22128:2024-5-12 12:50:3.462] [handle_download_job_done] Index: 1 Curr index: 1 StatusCode: 0 Error: 1006 Response is Empty. 
+[27684:22128:2024-5-12 12:54:55.499] Main End
+[27840:15548:2024-5-12 13:1:28.114] Main Start
+[27840:15548:2024-5-12 13:1:28.114] Command line:"C:\Users\hp\Downloads\Zoom_cm_fo42mnktZ9vvrZo4_mHuQU4ORXrc0HICBiba0KaJY1UDFyt8xDjqbA@ZZ0fh4tpie+yXxia_k221d1bb1bd847a00_.exe"  Instance:0x980000 Show State:10
+[27840:15548:2024-5-12 13:1:28.159] C:\
+[27840:13380:2024-5-12 13:1:28.164] [process_requst] start, url:https://us05web.zoom.us/conf/launch
+[27840:13380:2024-5-12 13:1:28.217] HttpSendRequest API failed1, error code: 12007
+[27840:13380:2024-5-12 13:1:28.223] HttpSendRequest API failed, error code: 12007
+[27840:13380:2024-5-12 13:1:28.223] [process_requst] End for url:https://us05web.zoom.us/conf/launch, return code:0, Error:1006, Response content size:0
+[27840:13380:2024-5-12 13:1:28.286] [process_requst] start, url:https://us05web.zoom.us/conf/launch
+[27840:13380:2024-5-12 13:1:28.286] HttpSendRequest API failed1, error code: 12007
+[27840:13380:2024-5-12 13:1:28.286] HttpSendRequest API failed, error code: 12007
+[27840:13380:2024-5-12 13:1:28.286] [process_requst] End for url:https://us05web.zoom.us/conf/launch, return code:0, Error:1006, Response content size:0
+[27840:15548:2024-5-12 13:1:28.349] [client_has_installed_app] found path:
+[27840:15548:2024-5-12 13:1:28.349]  ***NULL-POINTER-PLACEHOLDER***
+[27840:15548:2024-5-12 13:1:30.936] Main End
+[8988:12456:2024-5-12 13:1:45.568] Main Start
+[8988:12456:2024-5-12 13:1:45.568] Command line:"C:\Users\hp\Downloads\Zoom_cm_fo42mnktZ9vvrZo4_mHuQU4ORXrc0HICBiba0KaJY1UDFyt8xDjqbA@ZZ0fh4tpie+yXxia_k221d1bb1bd847a00_.exe"  Instance:0x980000 Show State:10
+[8988:12456:2024-5-12 13:1:45.599] C:\
+[8988:12088:2024-5-12 13:1:45.615] [process_requst] start, url:https://us05web.zoom.us/conf/launch
+[8988:12088:2024-5-12 13:1:45.663] HttpSendRequest API failed1, error code: 12007
+[8988:12088:2024-5-12 13:1:45.663] HttpSendRequest API failed, error code: 12007
+[8988:12088:2024-5-12 13:1:45.663] [process_requst] End for url:https://us05web.zoom.us/conf/launch, return code:0, Error:1006, Response content size:0
+[8988:12088:2024-5-12 13:1:45.725] [process_requst] start, url:https://us05web.zoom.us/conf/launch
+[8988:12088:2024-5-12 13:1:45.725] HttpSendRequest API failed1, error code: 12007
+[8988:12088:2024-5-12 13:1:45.725] HttpSendRequest API failed, error code: 12007
+[8988:12088:2024-5-12 13:1:45.725] [process_requst] End for url:https://us05web.zoom.us/conf/launch, return code:0, Error:1006, Response content size:0
+[8988:12456:2024-5-12 13:1:45.788] [client_has_installed_app] found path:
+[8988:12456:2024-5-12 13:1:45.788]  ***NULL-POINTER-PLACEHOLDER***
+[8988:12088:2024-5-12 13:1:48.404] [process_requst] start, url:https://us05web.zoom.us/conf/launch
+[8988:12088:2024-5-12 13:1:48.406] HttpSendRequest API failed1, error code: 12007
+[8988:12088:2024-5-12 13:1:48.406] HttpSendRequest API failed, error code: 12007
+[8988:12088:2024-5-12 13:1:48.406] [process_requst] End for url:https://us05web.zoom.us/conf/launch, return code:0, Error:1006, Response content size:0
+[8988:12456:2024-5-12 13:1:48.411] [client_has_installed_app] found path:
+[8988:12456:2024-5-12 13:1:48.411]  ***NULL-POINTER-PLACEHOLDER***
+[8988:12088:2024-5-12 13:1:49.468] [process_requst] start, url:https://us05web.zoom.us/conf/launch
+[8988:12088:2024-5-12 13:1:49.479] HttpSendRequest API failed1, error code: 12007
+[8988:12088:2024-5-12 13:1:49.480] HttpSendRequest API failed, error code: 12007
+[8988:12088:2024-5-12 13:1:49.480] [process_requst] End for url:https://us05web.zoom.us/conf/launch, return code:0, Error:1006, Response content size:0
+[8988:12456:2024-5-12 13:1:49.533] [client_has_installed_app] found path:
+[8988:12456:2024-5-12 13:1:49.533]  ***NULL-POINTER-PLACEHOLDER***
+[8988:12088:2024-5-12 13:1:50.537] [process_requst] start, url:https://us05web.zoom.us/conf/launch
+[8988:12088:2024-5-12 13:1:50.538] HttpSendRequest API failed1, error code: 12007
+[8988:12088:2024-5-12 13:1:50.540] HttpSendRequest API failed, error code: 12007
+[8988:12088:2024-5-12 13:1:50.540] [process_requst] End for url:https://us05web.zoom.us/conf/launch, return code:0, Error:1006, Response content size:0
+[8988:12456:2024-5-12 13:1:50.543] [client_has_installed_app] found path:
+[8988:12456:2024-5-12 13:1:50.543]  ***NULL-POINTER-PLACEHOLDER***
+[8988:12088:2024-5-12 13:1:51.283] [process_requst] start, url:https://us05web.zoom.us/conf/launch
+[8988:12088:2024-5-12 13:1:51.283] HttpSendRequest API failed1, error code: 12007
+[8988:12088:2024-5-12 13:1:51.286] HttpSendRequest API failed, error code: 12007
+[8988:12088:2024-5-12 13:1:51.286] [process_requst] End for url:https://us05web.zoom.us/conf/launch, return code:0, Error:1006, Response content size:0
+[8988:12456:2024-5-12 13:1:51.288] [client_has_installed_app] found path:
+[8988:12456:2024-5-12 13:1:51.288]  ***NULL-POINTER-PLACEHOLDER***
+[8988:12088:2024-5-12 13:1:51.856] [process_requst] start, url:https://us05web.zoom.us/conf/launch
+[8988:12088:2024-5-12 13:1:51.860] HttpSendRequest API failed1, error code: 12007
+[8988:12088:2024-5-12 13:1:51.860] HttpSendRequest API failed, error code: 12007
+[8988:12088:2024-5-12 13:1:51.860] [process_requst] End for url:https://us05web.zoom.us/conf/launch, return code:0, Error:1006, Response content size:0
+[8988:12456:2024-5-12 13:1:51.863] [client_has_installed_app] found path:
+[8988:12456:2024-5-12 13:1:51.863]  ***NULL-POINTER-PLACEHOLDER***
+[8988:12088:2024-5-12 13:1:52.236] [process_requst] start, url:https://us05web.zoom.us/conf/launch
+[8988:12088:2024-5-12 13:1:52.236] HttpSendRequest API failed1, error code: 12007
+[8988:12088:2024-5-12 13:1:52.240] HttpSendRequest API failed, error code: 12007
+[8988:12088:2024-5-12 13:1:52.240] [process_requst] End for url:https://us05web.zoom.us/conf/launch, return code:0, Error:1006, Response content size:0
+[8988:12456:2024-5-12 13:1:52.240] [client_has_installed_app] found path:
+[8988:12456:2024-5-12 13:1:52.240]  ***NULL-POINTER-PLACEHOLDER***
+[8988:12456:2024-5-12 13:1:54.862] Main End
